@@ -4,7 +4,7 @@
         $('#myFlex').html(message)
         //document.getElementById("myFlex").innerHTML = message;
 
-        liff.init({ liffId: "2006037659-WjanQvv0" });  //idLiff
+        liff.init({ liffId: "2007522644-DojrBNJV" });  //idLiff
         // liff.id equals to liffId
         liff.ready.then(() => {
           liff
@@ -83,3 +83,4 @@ function paste() {
             console.error('ไม่สามารถแปะข้อมูลจากคลิปบอร์ดได้: ', err);
         });
 }
+
